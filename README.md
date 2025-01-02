@@ -1,2 +1,2 @@
 # bilgiprogrami
-derslerin not ortalamasını bulan java kodu
+Üniversitede çalışan departmanları bilgilendiren  java kodu
